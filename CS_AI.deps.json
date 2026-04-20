@@ -10,21 +10,21 @@
         "dependencies": {
           "MQTTnet": "4.3.7.1207",
           "Swashbuckle.AspNetCore": "6.6.2",
-          "System.DirectoryServices": "10.0.6",
-          "System.DirectoryServices.AccountManagement": "10.0.6"
+          "System.DirectoryServices": "10.0.2",
+          "System.DirectoryServices.AccountManagement": "10.0.2"
         },
         "runtime": {
           "CS_AI.dll": {}
         }
       },
-      "Microsoft.Bcl.Cryptography/10.0.6": {
+      "Microsoft.Bcl.Cryptography/10.0.2": {
         "dependencies": {
-          "System.Formats.Asn1": "10.0.6"
+          "System.Formats.Asn1": "10.0.2"
         },
         "runtime": {
           "lib/net8.0/Microsoft.Bcl.Cryptography.dll": {
-            "assemblyVersion": "10.0.0.6",
-            "fileVersion": "10.0.626.17701"
+            "assemblyVersion": "10.0.0.2",
+            "fileVersion": "10.0.225.61305"
           }
         }
       },
@@ -83,23 +83,23 @@
           }
         }
       },
-      "System.Configuration.ConfigurationManager/10.0.6": {
+      "System.Configuration.ConfigurationManager/10.0.2": {
         "dependencies": {
-          "System.Diagnostics.EventLog": "10.0.6",
-          "System.Security.Cryptography.ProtectedData": "10.0.6"
+          "System.Diagnostics.EventLog": "10.0.2",
+          "System.Security.Cryptography.ProtectedData": "10.0.2"
         },
         "runtime": {
           "lib/net8.0/System.Configuration.ConfigurationManager.dll": {
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.626.17701"
+            "fileVersion": "10.0.225.61305"
           }
         }
       },
-      "System.Diagnostics.EventLog/10.0.6": {
+      "System.Diagnostics.EventLog/10.0.2": {
         "runtime": {
           "lib/net8.0/System.Diagnostics.EventLog.dll": {
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.626.17701"
+            "fileVersion": "10.0.225.61305"
           }
         },
         "runtimeTargets": {
@@ -113,15 +113,15 @@
             "rid": "win",
             "assetType": "runtime",
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.626.17701"
+            "fileVersion": "10.0.225.61305"
           }
         }
       },
-      "System.DirectoryServices/10.0.6": {
+      "System.DirectoryServices/10.0.2": {
         "runtime": {
           "lib/net8.0/System.DirectoryServices.dll": {
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.626.17701"
+            "fileVersion": "10.0.225.61305"
           }
         },
         "runtimeTargets": {
@@ -129,73 +129,73 @@
             "rid": "win",
             "assetType": "runtime",
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.626.17701"
+            "fileVersion": "10.0.225.61305"
           }
         }
       },
-      "System.DirectoryServices.AccountManagement/10.0.6": {
+      "System.DirectoryServices.AccountManagement/10.0.2": {
         "dependencies": {
-          "Microsoft.Bcl.Cryptography": "10.0.6",
-          "System.Configuration.ConfigurationManager": "10.0.6",
-          "System.DirectoryServices": "10.0.6",
-          "System.DirectoryServices.Protocols": "10.0.6"
+          "Microsoft.Bcl.Cryptography": "10.0.2",
+          "System.Configuration.ConfigurationManager": "10.0.2",
+          "System.DirectoryServices": "10.0.2",
+          "System.DirectoryServices.Protocols": "10.0.2"
         },
         "runtime": {
           "lib/net8.0/System.DirectoryServices.AccountManagement.dll": {
-            "assemblyVersion": "10.0.0.6",
-            "fileVersion": "10.0.626.17701"
+            "assemblyVersion": "10.0.0.2",
+            "fileVersion": "10.0.225.61305"
           }
         },
         "runtimeTargets": {
           "runtimes/win/lib/net8.0/System.DirectoryServices.AccountManagement.dll": {
             "rid": "win",
             "assetType": "runtime",
-            "assemblyVersion": "10.0.0.6",
-            "fileVersion": "10.0.626.17701"
+            "assemblyVersion": "10.0.0.2",
+            "fileVersion": "10.0.225.61305"
           }
         }
       },
-      "System.DirectoryServices.Protocols/10.0.6": {
+      "System.DirectoryServices.Protocols/10.0.2": {
         "runtime": {
           "lib/net8.0/System.DirectoryServices.Protocols.dll": {
-            "assemblyVersion": "10.0.0.6",
-            "fileVersion": "10.0.626.17701"
+            "assemblyVersion": "10.0.0.2",
+            "fileVersion": "10.0.225.61305"
           }
         },
         "runtimeTargets": {
           "runtimes/linux/lib/net8.0/System.DirectoryServices.Protocols.dll": {
             "rid": "linux",
             "assetType": "runtime",
-            "assemblyVersion": "10.0.0.6",
-            "fileVersion": "10.0.626.17701"
+            "assemblyVersion": "10.0.0.2",
+            "fileVersion": "10.0.225.61305"
           },
           "runtimes/osx/lib/net8.0/System.DirectoryServices.Protocols.dll": {
             "rid": "osx",
             "assetType": "runtime",
-            "assemblyVersion": "10.0.0.6",
-            "fileVersion": "10.0.626.17701"
+            "assemblyVersion": "10.0.0.2",
+            "fileVersion": "10.0.225.61305"
           },
           "runtimes/win/lib/net8.0/System.DirectoryServices.Protocols.dll": {
             "rid": "win",
             "assetType": "runtime",
-            "assemblyVersion": "10.0.0.6",
-            "fileVersion": "10.0.626.17701"
+            "assemblyVersion": "10.0.0.2",
+            "fileVersion": "10.0.225.61305"
           }
         }
       },
-      "System.Formats.Asn1/10.0.6": {
+      "System.Formats.Asn1/10.0.2": {
         "runtime": {
           "lib/net8.0/System.Formats.Asn1.dll": {
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.626.17701"
+            "fileVersion": "10.0.225.61305"
           }
         }
       },
-      "System.Security.Cryptography.ProtectedData/10.0.6": {
+      "System.Security.Cryptography.ProtectedData/10.0.2": {
         "runtime": {
           "lib/net8.0/System.Security.Cryptography.ProtectedData.dll": {
             "assemblyVersion": "10.0.0.0",
-            "fileVersion": "10.0.626.17701"
+            "fileVersion": "10.0.225.61305"
           }
         }
       }
@@ -207,12 +207,12 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.Bcl.Cryptography/10.0.6": {
+    "Microsoft.Bcl.Cryptography/10.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-Z0snzY7+gh+kjU3v9hQuu2q54eF0hosTTaI+aLYzFP2uUzySGHAxukjqWpeOioGUTZsM3PmPCn98OvJeD3KmkA==",
-      "path": "microsoft.bcl.cryptography/10.0.6",
-      "hashPath": "microsoft.bcl.cryptography.10.0.6.nupkg.sha512"
+      "sha512": "sha512-LG9Yll3B5aNpxv0+D47g6LiOiKBIlodhcHdQwcYzo8VeexFLGqx5ymetmA2aBRyo9cCcWsQWrFsdbsr8LvmWDw==",
+      "path": "microsoft.bcl.cryptography/10.0.2",
+      "hashPath": "microsoft.bcl.cryptography.10.0.2.nupkg.sha512"
     },
     "Microsoft.Extensions.ApiDescription.Server/6.0.5": {
       "type": "package",
@@ -263,54 +263,54 @@
       "path": "swashbuckle.aspnetcore.swaggerui/6.6.2",
       "hashPath": "swashbuckle.aspnetcore.swaggerui.6.6.2.nupkg.sha512"
     },
-    "System.Configuration.ConfigurationManager/10.0.6": {
+    "System.Configuration.ConfigurationManager/10.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-NQyzNGPPKUf5ykuPcUl1oKiY/gS+r9iASQmc8ITcwC6jBC20C9aFMIrBznpirpkoRev6I+p9n11u5QcqTfr+vg==",
-      "path": "system.configuration.configurationmanager/10.0.6",
-      "hashPath": "system.configuration.configurationmanager.10.0.6.nupkg.sha512"
+      "sha512": "sha512-UpBPpVzF+xbB3GsBrraPvlYCwUiOhs+RLxnTMKLqDs2gNNaAtxQRlKjXfMV3zxE+hiQkGId5olZ+9tE6xXHdwQ==",
+      "path": "system.configuration.configurationmanager/10.0.2",
+      "hashPath": "system.configuration.configurationmanager.10.0.2.nupkg.sha512"
     },
-    "System.Diagnostics.EventLog/10.0.6": {
+    "System.Diagnostics.EventLog/10.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-RMe4gRBwSVd1O6HVRjNwLgcH2jjrT8sHyNRJegZLX68voA+HzMf1xZPvFxMMDpyW86B9U2pYslgl4DFCE61WyA==",
-      "path": "system.diagnostics.eventlog/10.0.6",
-      "hashPath": "system.diagnostics.eventlog.10.0.6.nupkg.sha512"
+      "sha512": "sha512-TJPpTLF5MFPobq09c9BQ5X8QuviQfsKvH0Jbm7MkGylGvfIdRqJQLZDPC5sMRFkk9aZhmgir1NJKekip2NxfaA==",
+      "path": "system.diagnostics.eventlog/10.0.2",
+      "hashPath": "system.diagnostics.eventlog.10.0.2.nupkg.sha512"
     },
-    "System.DirectoryServices/10.0.6": {
+    "System.DirectoryServices/10.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-rZG61z4gDhv/uqT6Q1v6xGLB0IiuAdO9fr+WYDV/vPHKKVPozC+HxDqlewjNX7a3yAQK8sPjDtXWaNqMxFOMAw==",
-      "path": "system.directoryservices/10.0.6",
-      "hashPath": "system.directoryservices.10.0.6.nupkg.sha512"
+      "sha512": "sha512-LRpr3K7+IZt+UqUEyG1iL/ydaXteSW050JsO/4oV0e5HiLEA6BIJEIH0irG9GmB7spNDhuoWFhXwF9trgB6kow==",
+      "path": "system.directoryservices/10.0.2",
+      "hashPath": "system.directoryservices.10.0.2.nupkg.sha512"
     },
-    "System.DirectoryServices.AccountManagement/10.0.6": {
+    "System.DirectoryServices.AccountManagement/10.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-lxoQ5BDtCql9k4CWl7Jn/PUMNppIVcW88fbeBgskJWLJkoha7pXrbGA541eW+bxvy+BNrIT/75S/MfRAw6AKCg==",
-      "path": "system.directoryservices.accountmanagement/10.0.6",
-      "hashPath": "system.directoryservices.accountmanagement.10.0.6.nupkg.sha512"
+      "sha512": "sha512-C6JmDv1LEYxWrjBiNnYRzGEhoS7qa6hOzoeWl/14C+4LgNd4LGGfxjJU/z4hd1WV2qAo2lXz8KOnrKtJo7TkLQ==",
+      "path": "system.directoryservices.accountmanagement/10.0.2",
+      "hashPath": "system.directoryservices.accountmanagement.10.0.2.nupkg.sha512"
     },
-    "System.DirectoryServices.Protocols/10.0.6": {
+    "System.DirectoryServices.Protocols/10.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-c5eVFcFDnRBPraSvtDPLd1QzChXC57k4nBhYjeTxcdsOgG/NwYtFek9CB7/zz6jwDnOyNtm+rCL/paSVABRrQA==",
-      "path": "system.directoryservices.protocols/10.0.6",
-      "hashPath": "system.directoryservices.protocols.10.0.6.nupkg.sha512"
+      "sha512": "sha512-isY6uV3XcX57n+NG3PZcalNN4/YQNUTPcaKkvm927+oFRmCUkm7bf4oZZuBWdKjI/LGgQceWap3b15jg/XAVaA==",
+      "path": "system.directoryservices.protocols/10.0.2",
+      "hashPath": "system.directoryservices.protocols.10.0.2.nupkg.sha512"
     },
-    "System.Formats.Asn1/10.0.6": {
+    "System.Formats.Asn1/10.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/YXowB3idLgb3ix8pkZdr08EKSWoH9xyxywvXebcZnA1o1xUtSK3M8udHqN4xI50Ni6BuaOE1E9iCBiVpzkr7Q==",
-      "path": "system.formats.asn1/10.0.6",
-      "hashPath": "system.formats.asn1.10.0.6.nupkg.sha512"
+      "sha512": "sha512-9Hee6iQ74pDgdRNIL6lO8Vlx2onVWd5aDnqwk4Pvo0h5FklBd7QwcQDKgxeLuhiy0o3ibzUVO0KFQe0/hPXU+Q==",
+      "path": "system.formats.asn1/10.0.2",
+      "hashPath": "system.formats.asn1.10.0.2.nupkg.sha512"
     },
-    "System.Security.Cryptography.ProtectedData/10.0.6": {
+    "System.Security.Cryptography.ProtectedData/10.0.2": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-XsGj3pcZ4PIqz9Vhk7ymbL9iNQzOAnDzHmMBqK1rzjjfQBJ4AUZVJQWbDmTKUS8BIXX53QBDRrdiCpwdWfZM9A==",
-      "path": "system.security.cryptography.protecteddata/10.0.6",
-      "hashPath": "system.security.cryptography.protecteddata.10.0.6.nupkg.sha512"
+      "sha512": "sha512-me7W69hkjdu5EzHXCQSXv9OS3uAkMXT26oZuWTaabeoO5BPxSVuRVJ2FSfIW8xyGxBb6mKCE6ZKg7TLk3IzJBQ==",
+      "path": "system.security.cryptography.protecteddata/10.0.2",
+      "hashPath": "system.security.cryptography.protecteddata.10.0.2.nupkg.sha512"
     }
   }
 }
